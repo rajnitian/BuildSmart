@@ -1,0 +1,6 @@
+Initial release: command language to AutoLISP generator
+
+Parser for a small drafting-command language (layer, line, polyline, rect,
+circle, arc, polygon, text, dim, point, wall, column, grid), an AutoLISP
+emitter built on entmakex with state restore and a single UNDO group, a CLI
+(build, cmd, repl, commands), examples, docs, tests and CI.
